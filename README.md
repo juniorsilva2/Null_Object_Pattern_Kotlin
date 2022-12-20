@@ -1,0 +1,1 @@
+# Null_Object_Pattern_Kotlin
