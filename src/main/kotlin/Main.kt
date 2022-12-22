@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
     val cliente01 : ClienteAbstract = ClienteDAO.buscarBD("Lucas")
     val cliente02 : ClienteAbstract = ClienteDAO.buscarBD("Pedro")
     val cliente03 : ClienteAbstract = ClienteDAO.buscarBD("Ronny")
-    val cliente04 : ClienteAbstract = ClienteDAO.buscarBD("Jennifer")
+    val cliente04 : ClienteAbstract = ClienteDAO.buscarBD("Jeniffer")
 
     println("Clientes")
     println(cliente01.buscarBD())
